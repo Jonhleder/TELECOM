@@ -1,4 +1,4 @@
-# Análisis de Evasión de Clientes (Churn)
+# Análisis de Evasión de Clientes TELECOM
 
 Este proyecto tiene como objetivo analizar los factores que influyen en la **cancelación del servicio (churn)** por parte de clientes de una empresa de telecomunicaciones. A través de la limpieza, transformación y visualización de datos, se busca generar **insights estratégicos** que permitan reducir la tasa de evasión.
 
